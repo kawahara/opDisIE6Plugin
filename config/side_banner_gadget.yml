@@ -1,0 +1,6 @@
+disIE6:
+  caption:
+    ja_JP: "IE6はさっさと滅びるべき"
+  description:
+    ja_JP: "全世界のWeb開発者を悩ませ作業量を増加させるIE6の利用者に対して警告文を発します。"
+  component: [disie6, disie6]

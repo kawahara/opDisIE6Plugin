@@ -1,0 +1,7 @@
+homeSuccess:
+  customize:
+    disIE6:
+      template:     [disie6, disMessage]
+      parts:        [information]
+      target:       [bodyBottom]
+      is_component: true
